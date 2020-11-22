@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj",
       "projectName": "DevBase.Entities",
-      "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj",
+      "projectPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj",
       "packagesPath": "C:\\Users\\ysnbj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\obj\\",
+      "outputPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ysnbj\\AppData\\Roaming\\NuGet\\NuGet.Config",

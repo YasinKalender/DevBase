@@ -26,6 +26,9 @@ namespace DevBase.Business.Configure
             services.AddScoped(typeof(IBaseRepository<>), typeof(BaseRepository<>));
             services.AddScoped(typeof(IBaseService<>),typeof(BaseManager<>));
 
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<ICategoryService, CategoryManager>();
+
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<INLog, NLogs>();
 

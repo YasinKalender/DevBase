@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PXiqSRbu5nf0CaP3SIzyRXmQ3enTgh5lWJ4HAqmTSXOIqJeyEK4swn+PaR0MYH8YBJ97xQq8XxcOaZuCfvXx3g==",
+  "dgSpecHash": "cNsXkIO+ARpvqeo6tjws7LoPzuwshqvz727m7HRZJ30Ggdqm9UsuPdmrSr+OefOK0SpN3ZLSiBtWfhr2p35HbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.UI\\DevBase.UI.csproj",
+  "projectFilePath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.UI\\DevBase.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ysnbj\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\ysnbj\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

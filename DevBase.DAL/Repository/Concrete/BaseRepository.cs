@@ -31,11 +31,12 @@ namespace DevBase.DAL.Repository.Concrete
         public List<T> GetAll()
         {
             return _projectContext.Set<T>().ToList();
+           
         }
 
         public List<T> GetAll(Expression<Func<T, bool>> expression)
         {
-            return _projectContext.Set<T>().Where(expression).ToList();
+            return _projectContext.Set<T>().ToList();
         }
 
         public T GetByid(int id)

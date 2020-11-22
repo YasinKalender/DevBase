@@ -15,15 +15,18 @@ namespace DevBase.UI.Controllers
 
         private readonly IBaseService<Category> _categoryService;
         private readonly IMapper _mapper;
+        private readonly ICategoryService _categoryServices;
+       
 
-        public CategoryController(IBaseService<Category> categoryService, IMapper mapper)
+        public CategoryController(IBaseService<Category> categoryService, IMapper mapper,ICategoryService categoryServices)
         {
             _categoryService = categoryService;
             _mapper = mapper;
+            _categoryServices = categoryServices;
         }
-        public IActionResult Index()
+        public IActionResult Index(string s)
         {
-            return View(_mapper.Map<List<CategoryListDto>>(_categoryService.GetAll()));
+            return View(_mapper.Map<List<CategoryListDto>>(_categoryServices.Search(s)));
         }
 
         public IActionResult AddCategory()

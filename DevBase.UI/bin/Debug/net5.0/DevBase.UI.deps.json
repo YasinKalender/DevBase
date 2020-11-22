@@ -1136,6 +1136,24 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
+      "NLog/4.7.5": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.5.12092"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/NLog.dll": {}
+        }
+      },
+      "NLog.Config/4.7.5": {
+        "dependencies": {
+          "NLog": "4.7.5",
+          "NLog.Schema": "4.7.5"
+        }
+      },
+      "NLog.Schema/4.7.5": {},
       "runtime.native.System/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -1851,7 +1869,10 @@
       "DevBase.Business/1.0.0": {
         "dependencies": {
           "DevBase.DAL": "1.0.0",
-          "FluentValidation.AspNetCore": "9.3.0"
+          "DevBase.Dto": "1.0.0",
+          "FluentValidation.AspNetCore": "9.3.0",
+          "NLog": "4.7.5",
+          "NLog.Config": "4.7.5"
         },
         "runtime": {
           "DevBase.Business.dll": {}
@@ -3986,6 +4007,27 @@
       "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
       "path": "newtonsoft.json/11.0.2",
       "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "NLog/4.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1Udzim+UwoAGk0vW6T2rEBXJq1COvqTuE+4NFj2zHytuX1WOu+1Yes1qABG1IJOA5V3OMilIufUU1Ha9T0rrzQ==",
+      "path": "nlog/4.7.5",
+      "hashPath": "nlog.4.7.5.nupkg.sha512"
+    },
+    "NLog.Config/4.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rUW2e2X0q5PDDlxVa/ooH8jdA9ubL89dNW+Z8HPdR6qvWAPgLIpQvIeRSJC/yicuI/fSX+xZy9EzNZZAlTVgwA==",
+      "path": "nlog.config/4.7.5",
+      "hashPath": "nlog.config.4.7.5.nupkg.sha512"
+    },
+    "NLog.Schema/4.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UgzboQ9sJyonVd8XXqQ3Zzea4IPz5k7nNv6qdU73HpJ43fHIkveWPmIMtZWKS8YJrMxlGso2Sk/oE6r/ZyiOXg==",
+      "path": "nlog.schema/4.7.5",
+      "hashPath": "nlog.schema.4.7.5.nupkg.sha512"
     },
     "runtime.native.System/4.3.0": {
       "type": "package",

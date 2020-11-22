@@ -7453,11 +7453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.UI\\DevBase.UI.csproj",
+      "projectUniqueName": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.UI\\DevBase.UI.csproj",
       "projectName": "DevBase.UI",
-      "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.UI\\DevBase.UI.csproj",
+      "projectPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.UI\\DevBase.UI.csproj",
       "packagesPath": "C:\\Users\\ysnbj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.UI\\obj\\",
+      "outputPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ysnbj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7474,11 +7474,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Business\\DevBase.Business.csproj": {
-              "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Business\\DevBase.Business.csproj"
+            "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Business\\DevBase.Business.csproj": {
+              "projectPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Business\\DevBase.Business.csproj"
             },
-            "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Dto\\DevBase.Dto.csproj": {
-              "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Dto\\DevBase.Dto.csproj"
+            "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Dto\\DevBase.Dto.csproj": {
+              "projectPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Dto\\DevBase.Dto.csproj"
             }
           }
         }

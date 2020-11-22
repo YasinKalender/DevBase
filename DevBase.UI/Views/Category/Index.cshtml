@@ -6,6 +6,17 @@
 
 }
 
+@using (Html.BeginForm("Index", "Category", FormMethod.Get))
+{
+
+    @Html.TextBox("s")
+    <button type="submit" class="btn btn-primary">Ara</button>
+
+
+}
+
+
+
 <table class="table table-bordered">
 
     <thead>

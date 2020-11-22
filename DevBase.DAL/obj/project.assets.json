@@ -5837,11 +5837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.DAL\\DevBase.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.DAL\\DevBase.DAL.csproj",
       "projectName": "DevBase.DAL",
-      "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.DAL\\DevBase.DAL.csproj",
+      "projectPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.DAL\\DevBase.DAL.csproj",
       "packagesPath": "C:\\Users\\ysnbj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.DAL\\obj\\",
+      "outputPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ysnbj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5858,8 +5858,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\DevBase.Map.csproj": {
-              "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\DevBase.Map.csproj"
+            "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Map\\DevBase.Map.csproj": {
+              "projectPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Map\\DevBase.Map.csproj"
             }
           }
         }

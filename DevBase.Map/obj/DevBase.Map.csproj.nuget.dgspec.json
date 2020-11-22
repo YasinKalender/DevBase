@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\DevBase.Map.csproj": {}
+    "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Map\\DevBase.Map.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj": {
+    "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj",
         "projectName": "DevBase.Entities",
-        "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj",
+        "projectPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj",
         "packagesPath": "C:\\Users\\ysnbj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\obj\\",
+        "outputPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ysnbj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\DevBase.Map.csproj": {
+    "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Map\\DevBase.Map.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\DevBase.Map.csproj",
+        "projectUniqueName": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Map\\DevBase.Map.csproj",
         "projectName": "DevBase.Map",
-        "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\DevBase.Map.csproj",
+        "projectPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Map\\DevBase.Map.csproj",
         "packagesPath": "C:\\Users\\ysnbj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\obj\\",
+        "outputPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Map\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ysnbj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj": {
-                "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj"
+              "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj": {
+                "projectPath": "C:\\Users\\ysnbj\\Documents\\GitHub\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj"
               }
             }
           }
