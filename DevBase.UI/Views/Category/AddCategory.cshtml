@@ -1,0 +1,27 @@
+﻿@model CategoryAddDto
+@{
+    ViewData["Title"] = "AddCategory";
+    Layout = "_Layout";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+
+
+        <label asp-for="CategoryName"></label>
+        <input type="text" asp-for="CategoryName" class="form-control" />
+
+
+
+    </div>
+
+    <button type="submit" class="btn btn-primary">Gönder</button>
+
+
+
+}
+
+

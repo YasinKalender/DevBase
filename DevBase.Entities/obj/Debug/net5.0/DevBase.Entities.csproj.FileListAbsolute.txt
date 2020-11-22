@@ -1,0 +1,11 @@
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Entities\bin\Debug\net5.0\DevBase.Entities.deps.json
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Entities\bin\Debug\net5.0\DevBase.Entities.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Entities\bin\Debug\net5.0\ref\DevBase.Entities.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Entities\bin\Debug\net5.0\DevBase.Entities.pdb
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Entities\obj\Debug\net5.0\DevBase.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Entities\obj\Debug\net5.0\DevBase.Entities.AssemblyInfoInputs.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Entities\obj\Debug\net5.0\DevBase.Entities.AssemblyInfo.cs
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Entities\obj\Debug\net5.0\DevBase.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Entities\obj\Debug\net5.0\DevBase.Entities.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Entities\obj\Debug\net5.0\ref\DevBase.Entities.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Entities\obj\Debug\net5.0\DevBase.Entities.pdb

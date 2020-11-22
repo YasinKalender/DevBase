@@ -1,0 +1,338 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Business\\DevBase.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Business\\DevBase.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Business\\DevBase.Business.csproj",
+        "projectName": "DevBase.Business",
+        "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Business\\DevBase.Business.csproj",
+        "packagesPath": "C:\\Users\\ysnbj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ysnbj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.DAL\\DevBase.DAL.csproj": {
+                "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.DAL\\DevBase.DAL.csproj"
+              },
+              "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Dto\\DevBase.Dto.csproj": {
+                "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Dto\\DevBase.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.5, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.DAL\\DevBase.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.DAL\\DevBase.DAL.csproj",
+        "projectName": "DevBase.DAL",
+        "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.DAL\\DevBase.DAL.csproj",
+        "packagesPath": "C:\\Users\\ysnbj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ysnbj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\DevBase.Map.csproj": {
+                "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\DevBase.Map.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Dto\\DevBase.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Dto\\DevBase.Dto.csproj",
+        "projectName": "DevBase.Dto",
+        "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Dto\\DevBase.Dto.csproj",
+        "packagesPath": "C:\\Users\\ysnbj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ysnbj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj": {
+                "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj",
+        "projectName": "DevBase.Entities",
+        "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj",
+        "packagesPath": "C:\\Users\\ysnbj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ysnbj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\DevBase.Map.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\DevBase.Map.csproj",
+        "projectName": "DevBase.Map",
+        "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\DevBase.Map.csproj",
+        "packagesPath": "C:\\Users\\ysnbj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Map\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ysnbj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj": {
+                "projectPath": "C:\\Users\\ysnbj\\Desktop\\DevBase\\DevBase.Entities\\DevBase.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

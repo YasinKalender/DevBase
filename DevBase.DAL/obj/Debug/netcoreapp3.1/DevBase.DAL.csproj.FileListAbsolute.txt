@@ -1,0 +1,17 @@
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\bin\Debug\netcoreapp3.1\DevBase.Entities.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\bin\Debug\netcoreapp3.1\DevBase.Map.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\obj\Debug\netcoreapp3.1\DevBase.DAL.csprojAssemblyReference.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\obj\Debug\netcoreapp3.1\DevBase.DAL.AssemblyInfoInputs.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\obj\Debug\netcoreapp3.1\DevBase.DAL.AssemblyInfo.cs
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\bin\Debug\netcoreapp3.1\DevBase.DAL.deps.json
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\bin\Debug\netcoreapp3.1\DevBase.DAL.runtimeconfig.json
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\bin\Debug\netcoreapp3.1\DevBase.DAL.runtimeconfig.dev.json
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\bin\Debug\netcoreapp3.1\DevBase.DAL.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\bin\Debug\netcoreapp3.1\DevBase.DAL.pdb
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\bin\Debug\netcoreapp3.1\DevBase.Map.pdb
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\bin\Debug\netcoreapp3.1\DevBase.Entities.pdb
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\obj\Debug\netcoreapp3.1\DevBase.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\obj\Debug\netcoreapp3.1\DevBase.DAL.csproj.CopyComplete
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\obj\Debug\netcoreapp3.1\DevBase.DAL.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\obj\Debug\netcoreapp3.1\DevBase.DAL.pdb
+C:\Users\ysnbj\Desktop\DevBase\DevBase.DAL\obj\Debug\netcoreapp3.1\DevBase.DAL.genruntimeconfig.cache

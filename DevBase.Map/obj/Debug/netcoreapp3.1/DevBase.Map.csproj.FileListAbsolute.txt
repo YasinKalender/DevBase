@@ -1,0 +1,12 @@
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\bin\Debug\netcoreapp3.1\DevBase.Entities.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\netcoreapp3.1\DevBase.Map.csprojAssemblyReference.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\netcoreapp3.1\DevBase.Map.AssemblyInfoInputs.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\netcoreapp3.1\DevBase.Map.AssemblyInfo.cs
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\bin\Debug\netcoreapp3.1\DevBase.Map.deps.json
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\bin\Debug\netcoreapp3.1\DevBase.Map.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\bin\Debug\netcoreapp3.1\DevBase.Map.pdb
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\bin\Debug\netcoreapp3.1\DevBase.Entities.pdb
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\netcoreapp3.1\DevBase.Map.csproj.CoreCompileInputs.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\netcoreapp3.1\DevBase.Map.csproj.CopyComplete
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\netcoreapp3.1\DevBase.Map.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\netcoreapp3.1\DevBase.Map.pdb

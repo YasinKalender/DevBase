@@ -1,0 +1,41 @@
+﻿@model List<ProductListDto> 
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table table-bordered">
+
+    <thead>
+
+        <tr>
+            <th>Product Name</th>
+            <th>Product Description</th>
+            <th></th>
+
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+        <tr>
+
+            @foreach (var item in Model)
+            {
+                <td>@item.ProductName</td>
+                <td>@item.ProductDescription</td>
+                <td> <img src="~/image/@item.Image" class="w-25" /></td>
+                <td>@Html.ActionLink("Güncelle", "UpdateProduct", "Product", new { id = item.ID }, new { @class = "btn btn-primary" })</td>
+                <td>@Html.ActionLink("Sil", "DeleteCategory", "Category", new { id = item.ID }, new { @class = "btn btn-danger" })</td>
+            }
+
+        </tr>
+
+
+    </tbody>
+
+
+
+</table>
+

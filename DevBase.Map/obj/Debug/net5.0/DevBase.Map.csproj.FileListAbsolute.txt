@@ -1,0 +1,15 @@
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\bin\Debug\net5.0\DevBase.Map.deps.json
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\bin\Debug\net5.0\DevBase.Map.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\bin\Debug\net5.0\ref\DevBase.Map.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\bin\Debug\net5.0\DevBase.Map.pdb
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\bin\Debug\net5.0\DevBase.Entities.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\bin\Debug\net5.0\DevBase.Entities.pdb
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\net5.0\DevBase.Map.csprojAssemblyReference.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\net5.0\DevBase.Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\net5.0\DevBase.Map.AssemblyInfoInputs.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\net5.0\DevBase.Map.AssemblyInfo.cs
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\net5.0\DevBase.Map.csproj.CoreCompileInputs.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\net5.0\DevBase.Map.csproj.CopyComplete
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\net5.0\DevBase.Map.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\net5.0\ref\DevBase.Map.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Map\obj\Debug\net5.0\DevBase.Map.pdb

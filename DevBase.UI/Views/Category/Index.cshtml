@@ -1,0 +1,41 @@
+﻿@model List<CategoryListDto>
+@{
+    ViewData["Title"] = "Index";
+
+    Layout = "_Layout";
+
+}
+
+<table class="table table-bordered">
+
+    <thead>
+
+        <tr>
+            <th>Category Name</th>
+            <th></th>
+            <th></th>
+
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+        <tr>
+
+            @foreach (var item in Model)
+            {
+                <td>@item.CategoryName</td>
+                <td>@Html.ActionLink("Güncelle", "UpdateCategory", "Category", new { id = item.ID }, new { @class = "btn btn-primary" })</td>
+                <td>@Html.ActionLink("Sil", "DeleteCategory", "Category", new { id = item.ID }, new { @class = "btn btn-danger" })</td>
+            }
+
+        </tr>
+
+
+    </tbody>
+
+
+
+</table>
+

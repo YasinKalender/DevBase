@@ -1,0 +1,28 @@
+﻿@model CategoryUpdateDto
+@{
+    ViewData["Title"] = "UpdateCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(i => i.ID)
+    <div class="form-group">
+
+
+        <label asp-for="CategoryName"></label>
+        <input type="text" asp-for="CategoryName" class="form-control" />
+
+
+
+    </div>
+
+    <button type="submit" class="btn btn-primary">Gönder</button>
+
+
+
+}
+
+

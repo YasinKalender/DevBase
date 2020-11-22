@@ -1,0 +1,12 @@
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Dto\bin\Debug\netcoreapp3.1\DevBase.Dto.deps.json
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Dto\bin\Debug\netcoreapp3.1\DevBase.Dto.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Dto\bin\Debug\netcoreapp3.1\DevBase.Dto.pdb
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Dto\obj\Debug\netcoreapp3.1\DevBase.Dto.csprojAssemblyReference.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Dto\obj\Debug\netcoreapp3.1\DevBase.Dto.AssemblyInfoInputs.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Dto\obj\Debug\netcoreapp3.1\DevBase.Dto.AssemblyInfo.cs
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Dto\obj\Debug\netcoreapp3.1\DevBase.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Dto\obj\Debug\netcoreapp3.1\DevBase.Dto.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Dto\obj\Debug\netcoreapp3.1\DevBase.Dto.pdb
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Dto\bin\Debug\netcoreapp3.1\DevBase.Entities.dll
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Dto\bin\Debug\netcoreapp3.1\DevBase.Entities.pdb
+C:\Users\ysnbj\Desktop\DevBase\DevBase.Dto\obj\Debug\netcoreapp3.1\DevBase.Dto.csproj.CopyComplete
